@@ -18,7 +18,7 @@ This helper provides an extension method to Map a list of dynamic to your entity
 <br />
 Example usage:
 
-<h4>1) Create your entity class</h4>
+<h4>1) Create an entity class</h4>
 <div class="highlight highlight-source-cs">
 <pre>
 <span class="pl-k">public</span> <span class="pl-k">class</span> <span class="pl-en">Employee</span>
