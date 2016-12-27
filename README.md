@@ -3,7 +3,7 @@
 <br />
 
 <h2>Features</h2>
-Dynamapper is an extension library to extend dynamic list of items to a list of specific entities.
+Dynamapper is a <a href="https://www.nuget.org/packages/SolutionsJPI.Dynamapper.Utility/" target="_blank">NuGet library</a> to extend dynamic list of items to a list of specific entities.
 
 A dynamic SQL Query using ADO .Net, Dapper or another ORM framework may return a dynamic list of items of type: <b>IEnumerable&#60;dynamic&#62;</b>
 <br />
