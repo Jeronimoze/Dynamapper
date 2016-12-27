@@ -7,6 +7,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dynamapper", "Dynamapper\Dy
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dynamapper.Tests", "Dynamapper.Tests\Dynamapper.Tests.csproj", "{BB10D5CC-5B3A-41ED-8286-46264FB3276E}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "StrongName", "StrongName", "{CEA1BD3F-1FD5-4ACB-9C08-7268A82EA4B9}"
+	ProjectSection(SolutionItems) = preProject
+		StrongName\DynamapperStrongName.pfx = StrongName\DynamapperStrongName.pfx
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
